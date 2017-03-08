@@ -1,0 +1,29 @@
+_GENERAL OUTLINE_
+
+Exploration game based on a Journalist perspective. Key events are altered by player choice, at specific intervals of the game where the player is presetned with a choice. 
+
+Phase 1: collect and record data to analyze and evaluate;
+Phase 2: Decide on what sequence of operations to do (spy, investigate a scene, other subterfuge)
+Phase 3: Execute operations. 
+
+
+_CORE MECHANICS_
+“Looper” mechanic
+Game will possess time-travelling mechanic as the core mechanic of the game: The ability to “jump” into the scenarios and situations presented in photos and files, entering a new environment and executing operations or collecting data from there.
+
+Storage System 
+Implement a storage system used to retrieve and collect files from exploring through the game.
+
+Seperate file interface
+Implement a seperate file interface that opens whenever a photo or file is examined. 
+
+Consequence-based choice system
+Player will be presented with criticial choices during key events that alter the game and gives different consequences apart from the other choices that can be made.
+
+_LORE_
+For pure semantics during the developement of the VR game, focus on the implications of the Cold War. Assets will revolve around the timeline and events that occured during this event in American History.
+
+
+
+
+
